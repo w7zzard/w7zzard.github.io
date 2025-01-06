@@ -1,0 +1,9 @@
+@import '../dark-slider.scss';
+
+$dark-bg: #1a1a1a;
+$dark-text: #ffffff;
+
+.dark-theme {
+  background-color: $dark-bg;
+  color: $dark-text;
+}
