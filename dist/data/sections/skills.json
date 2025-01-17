@@ -41,8 +41,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Website** design",
-                            "text": "I can bring your best ideas into life!"
+                            "title": "** Front-End** Development",
+                            "text": "Build responsive, user-friendly interfaces using HTML, CSS, JavaScript, and frameworks like React."
                         },
                         "es": {
                             "title": "Diseño de **sitios web**",
@@ -68,7 +68,7 @@
                     "locales": {
                         "en": {
                             "title": "**Database** management",
-                            "text": "I can handle your data effectively!"
+                            "text": "Design, query, and manage databases like MySQL and MongoDB for scalable applications."
                         },
                         "es": {
                             "title": "Gestión de **bases de datos**",
@@ -93,8 +93,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**App** creation",
-                            "text": "I can make creative and innovative apps!"
+                            "title": "**Api** Development",
+                            "text": "Create and integrate APIs for efficient data exchange and enhanced application features."
                         },
                         "es": {
                             "title": "Creación de **aplicaciones**",
@@ -119,8 +119,8 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "REST **APIs**",
-                            "text": "I can build API services!"
+                            "title": "Version **Control**",
+                            "text": "Use Git and GitHub to track changes, collaborate, and maintain code consistency."
                         },
                         "es": {
                             "title": "APIs **REST**",
@@ -140,13 +140,13 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-lock",
+                        "fa": "fa-solid fa-bug-slash",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
                         "en": {
-                            "title": "Information **Security**",
-                            "text": "Security is my middle name!"
+                            "title": " **Debugging**",
+                            "text": "Identify and resolve coding issues quickly to optimize performance and ensure smooth functionality."
                         },
                         "es": {
                             "title": "**Seguridad** de la información",

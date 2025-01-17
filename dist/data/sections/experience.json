@@ -45,9 +45,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Backend** Developer",
-                            "info": "Sapphire Studio",
-                            "text": "Developed and maintained scalable backend systems for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+                            "title": "**Web Application** Designer",
+                            "info": "NovaStack Innovations",
+                            "text": "Created modern, responsive web applications with an emphasis on clean design and functionality. Focused on mobile-first development and user experience, ensuring compatibility across devices. Collaborated with designers and stakeholders to bring project visions to life, meeting tight deadlines and exceeding client expectations.",
                             "tags": ["PHP", "MySQL", "Laravel"]
                         },
                         "es": {
@@ -82,9 +82,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Full-Stack** Engineer",
-                            "info": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
+                            "title": "**API Developer &** Integrator",
+                            "info": "CloudCore Systems",
+                            "text": "Developed and integrated RESTful APIs to enable smooth data exchange between front-end and back-end systems. Worked on third-party API integration to enhance application functionality. Focused on secure and efficient API implementations that improved user workflows and expanded application capabilities.",
                             "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
                         },
                         "es": {
@@ -119,9 +119,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Backend** Engineer",
-                            "info": "Adobe Inc.",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
+                            "title": "**Debugging** Specialist",
+                            "info": "PixelForge Technologies",
+                            "text": "Specialized in identifying and resolving complex coding issues across multiple projects. Conducted code reviews, implemented debugging tools, and streamlined processes to improve application performance. Successfully resolved critical bugs, optimized loading speeds, and ensured seamless functionality for web and mobile applications.",
                             "tags": ["Java", "AWS", "REST", "Docker"]
                         },
                         "es": {
@@ -156,9 +156,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Senior Backend** Developer",
-                            "info": "Apple Inc.",
-                            "text": "<p>Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure Apple's backend infrastructure stays robust and efficient.</p>",
+                            "title": "**Full-Stack** Web Developer",
+                            "info": "CodeCrafters Solutions",
+                            "text": "<p>Designed and developed user-friendly websites and applications, with a focus on:</p> <ul><li>Integrating front-end technologies like HTML, CSS, and React</li><li>Building back-end systems using Node.js and Express</li><li>Optimizing code for improved functionality</li><li>Implementing secure database management with MongoDB</li><li>Collaborating with clients for custom features</li></ul> <p class='mt-3'>Together, we delivered scalable solutions that met client needs.</p>",
                             "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
                         },
                         "es": {
